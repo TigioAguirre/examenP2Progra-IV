@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\remag\\OneDrive\\Desktop\\examenP2\\ClimaOpenMeteo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\remag\\OneDrive\\Desktop\\examenP2\\ClimaOpenMeteo\\Services\\OpenMeteoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\OpenMeteoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\remag\\OneDrive\\Desktop\\examenP2\\ClimaOpenMeteo\\ClimaOpenMeteo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClimaOpenMeteo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\remag\\OneDrive\\Desktop\\examenP2\\ClimaOpenMeteo\\Models\\WeatherModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\WeatherModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenMeteoService.cs",
+              "DocumentMoniker": "C:\\Users\\remag\\OneDrive\\Desktop\\examenP2\\ClimaOpenMeteo\\Services\\OpenMeteoService.cs",
+              "RelativeDocumentMoniker": "Services\\OpenMeteoService.cs",
+              "ToolTip": "C:\\Users\\remag\\OneDrive\\Desktop\\examenP2\\ClimaOpenMeteo\\Services\\OpenMeteoService.cs",
+              "RelativeToolTip": "Services\\OpenMeteoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T17:00:30.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClimaOpenMeteo.csproj",
+              "DocumentMoniker": "C:\\Users\\remag\\OneDrive\\Desktop\\examenP2\\ClimaOpenMeteo\\ClimaOpenMeteo.csproj",
+              "RelativeDocumentMoniker": "ClimaOpenMeteo.csproj",
+              "ToolTip": "C:\\Users\\remag\\OneDrive\\Desktop\\examenP2\\ClimaOpenMeteo\\ClimaOpenMeteo.csproj",
+              "RelativeToolTip": "ClimaOpenMeteo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-24T16:55:47.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherModels.cs",
+              "DocumentMoniker": "C:\\Users\\remag\\OneDrive\\Desktop\\examenP2\\ClimaOpenMeteo\\Models\\WeatherModels.cs",
+              "RelativeDocumentMoniker": "Models\\WeatherModels.cs",
+              "ToolTip": "C:\\Users\\remag\\OneDrive\\Desktop\\examenP2\\ClimaOpenMeteo\\Models\\WeatherModels.cs",
+              "RelativeToolTip": "Models\\WeatherModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T16:54:43.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

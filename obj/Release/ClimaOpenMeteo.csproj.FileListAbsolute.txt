@@ -1,0 +1,7 @@
+C:\Users\remag\OneDrive\Desktop\examenP2\ClimaOpenMeteo\bin\Release\ClimaOpenMeteo.exe.config
+C:\Users\remag\OneDrive\Desktop\examenP2\ClimaOpenMeteo\bin\Release\ClimaOpenMeteo.exe
+C:\Users\remag\OneDrive\Desktop\examenP2\ClimaOpenMeteo\bin\Release\ClimaOpenMeteo.pdb
+C:\Users\remag\OneDrive\Desktop\examenP2\ClimaOpenMeteo\obj\Release\ClimaOpenMeteo.csproj.AssemblyReference.cache
+C:\Users\remag\OneDrive\Desktop\examenP2\ClimaOpenMeteo\obj\Release\ClimaOpenMeteo.csproj.CoreCompileInputs.cache
+C:\Users\remag\OneDrive\Desktop\examenP2\ClimaOpenMeteo\obj\Release\ClimaOpenMeteo.exe
+C:\Users\remag\OneDrive\Desktop\examenP2\ClimaOpenMeteo\obj\Release\ClimaOpenMeteo.pdb
