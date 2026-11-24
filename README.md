@@ -56,15 +56,5 @@ Aplicación Windows Forms (`MainForm.cs`):
 2. Presiona **F5**. No se necesita NuGet: el proyecto solo usa librerías incluidas en .NET Framework 4.8.
 3. No hace falta configurar nada más: la API no usa clave.
 
-## 6. Estructura
-```
-ClimaOpenMeteo/
-├── ClimaOpenMeteo.csproj
-├── Program.cs
-├── MainForm.cs                    (interfaz)
-├── Models/WeatherModels.cs        (clases para deserializar el JSON)
-└── Services/OpenMeteoService.cs   (solicitudes HTTP)
-```
-
 ## 7. Repositorio
 https://github.com/TigioAguirre/examenP2Progra-IV
